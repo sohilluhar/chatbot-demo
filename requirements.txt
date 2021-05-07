@@ -3,3 +3,4 @@ flask
 gunicorn
 pymongo
 chatterbot
+chatterbot_corpus
