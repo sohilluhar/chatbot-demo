@@ -4,3 +4,4 @@ gunicorn
 pymongo
 chatterbot
 chatterbot_corpus
+dnspython
